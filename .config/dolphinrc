@@ -1,0 +1,30 @@
+MenuBar=Disabled
+
+[DetailsMode]
+RightPadding=154
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,9,2,18,45,9.022
+
+[IconsMode]
+PreviewSize=32
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[PreviewSettings]
+Plugins=appimagethumbnail,directorythumbnail,gdk-pixbuf-thumbnailer,opendocumentthumbnail,kraorathumbnail,ebookthumbnail,windowsexethumbnail,audiothumbnail,cursorthumbnail,djvuthumbnail,comicbookthumbnail,jxl,librsvg,imagethumbnail,windowsimagethumbnail,exrthumbnail,jpegthumbnail,svgthumbnail
+
+[UiSettings]
+ColorScheme=*
+
+[ViewPropertiesDialog]
+1280x720 screen: Window-Maximized=true
